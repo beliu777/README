@@ -20,10 +20,9 @@
 
 ### 📫 Как со мной связаться
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твой.email@gmail.com)
-[![VK](https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/твой_ник)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibragimtchopanov@yandex.ru)
+[![VK](https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/chopanov16)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chopanov17)
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ТВОЙ_НИК_НА_ГИТХАБE&repo=НАЗВАНИЕ_ТВОЕГО_КРУТОГО_РЕПО&theme=radical)](https://github.com/ТВОЙ_НИК_НА_ГИТХАБE/НАЗВАНИЕ_ТВОЕГО_КРУТОГО_РЕПО)
 `
